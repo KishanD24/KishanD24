@@ -27,9 +27,9 @@
 
 # 💡 What I Focus On
 
-    ✔ Clean & Maintainable Code
-    ✔ Performance Optimized Apps
-    ✔ Real-world Business Solutions
+    ✔ Writing Clean, Readable Code  
+    ✔ Building Fast & Reliable Apps  
+    ✔ Solving Real Business Problems 
 
 # ⭐ "Turning ideas into powerful mobile applications."
 
