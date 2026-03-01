@@ -11,16 +11,8 @@
     🛠 Skilled in state management & performance optimization
     
 # 🛠 Tech Stack
-### => 📱 Mobile Development
-### => Flutter (Dart)
-### => Android (Java)
-### => 🔥 Backend & Services
-### => Firebase Authentication
-### => Cloud Firestore
-### => Firebase Analytics
-### => REST APIs Integration
-### => 🗄 Database
-### => JSON Handling
+    Flutter • Android • Firebase • GCP  
+    Git • CI/CD • REST APIs  
 
 ## 🧰 Tools & Platforms
     
