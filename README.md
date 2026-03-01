@@ -16,10 +16,7 @@
 
 ## 🧰 Tools & Platforms
     
-- Android Studio
-- VS Code
-- Git & GitHub
-- Play Console
+    Android Studio • VS Code • GitHub • Postman • Xcode
 
 
 ## 📫 Connect With Me
