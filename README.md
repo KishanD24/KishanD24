@@ -23,7 +23,7 @@
 
 ### 📧 Email: kishan.0.deshani@gmail.com
 ### 💼 LinkedIn: https://www.linkedin.com/in/kishan-deshani-8610bb23a
-### 🌐 Web: Coming Soon
+### 🌐 Web: https://kishandeshani.site
 
 # 💡 What I Focus On
 
