@@ -28,8 +28,8 @@ From UI/UX design to final deployment on the **App Store & Play Store**, I manag
 ## 🚀 Key Projects & Open Source
 
 * **[button_kit](https://pub.dev/packages/button_kit)** (Pub.dev) – A reusable UI package for highly customizable Flutter button components.
-* **[API Doc Creator](https://kishandeshani.site)** – A custom web-based tool built to streamline API documentation and testing workflows.
-* **InvoiceMog** – A professional invoicing solution built from scratch using Flutter and Firebase.
+* **[API Doc Creator](https://kishandeshani.site](https://kishand24.github.io/API_DOC_CREATOR)** – A custom web-based tool built to streamline API documentation and testing workflows.
+* **[InvoiceMog](https://play.google.com/store/apps/details?id=com.invoicemog)** – A professional invoicing solution built from scratch using Flutter and Firebase.
 * **TripNDrop** – A hybrid logistics and taxi service platform featuring advanced flight tracking.
 
 ---
