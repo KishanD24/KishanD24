@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Kishan Deshani
-
+![Open For Hire](https://img.shields.io/badge/Status-Open%20To%20Work-brightgreen?style=for-the-badge&logo=github)
 > **Lead Mobile App Developer | Flutter Expert**
 > 📍 Rajkot, Gujarat, India
 
